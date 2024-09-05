@@ -91,3 +91,14 @@ span{
     padding: 5px;
 }
 
+table,thead,tr,td{
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 30px;
+}
+td{
+    cursor: pointer;
+}
+.pages{
+    text-align: left;
+}
